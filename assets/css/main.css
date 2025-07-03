@@ -3,6 +3,10 @@ a, a:hover {
   text-decoration: none;
 }
 
+.header-main-area img {
+  width: 20px;
+}
+
 ul {
   padding: 0;
   margin: 0;
@@ -21262,6 +21266,10 @@ Location:
   height: 70px;
   width: 60px;
 }
+
+/* #nav-logo {
+  transform: scale(1.3);
+} */
 
 @keyframes rotate-loading {
   0% {

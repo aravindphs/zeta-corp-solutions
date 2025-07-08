@@ -8524,7 +8524,7 @@ Location:
 }
 
 .mobile-header.mobile-haeder2 {
-  background: var(--ztc-text-text-5);
+  background: black;
   position: fixed;
 }
 .mobile-header.mobile-haeder2 .mobile-nav-icon {
@@ -8532,7 +8532,7 @@ Location:
 }
 
 .mobile-sidebar.mobile-sidebar2 {
-  background: var(--ztc-text-text-5);
+  background: black;
   overflow-y: scroll;
 }
 .mobile-sidebar.mobile-sidebar2 .menu-close {
